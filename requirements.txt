@@ -1,0 +1,14 @@
+# How to generate this automatically[method 2]? https://baijiahao.baidu.com/s?id=1793743088716305519&wfr=spider&for=pc
+dominate==2.8.0
+matplotlib==3.7.1
+numpy==1.24.4
+opencv_python==4.8.0.74
+Pillow==9.5.0
+visdom==0.2.4
+
+#python==3.8
+
+# pip install torch==2.0.0 torchvision==0.15.1 --index-url https://download.pytorch.org/whl/cu118
+#torch==2.0.0+cu118
+#torchvision==0.15.1+cu118
+# You can download other versions from the official website: https://pytorch.org/get-started/previous-versions/

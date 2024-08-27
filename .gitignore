@@ -1,0 +1,11 @@
+.idea/*
+*.zip
+
+checkpoints/*
+
+**/__pycache__
+
+# FOR TEST
+results/*
+input/*
+
