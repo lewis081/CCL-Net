@@ -70,8 +70,13 @@ python test.py --dataroot /the_abs_path_of_data --model HRNet
 ## Citation
 
 ```
-TODO: paste the avalible link at here
-
+@article{liu2024underwater,
+  title={Underwater image enhancement with cascaded contrastive learning},
+  author={Liu, Yi and Jiang, Qiuping and Wang, Xinyi and Luo, Ting and Zhou, Jingchun},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgements
